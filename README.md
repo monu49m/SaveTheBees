@@ -21,3 +21,5 @@ My program flow goes as:
 - Data cleaning & data wrangling
 - Creating required dataframe
 - Creating required app layout which includes 3 figues: 1 choropleth map & 2 line charts
+
+After running the code, I get link to see my browser as http://127.0.0.1:8050/
