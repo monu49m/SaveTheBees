@@ -1,7 +1,6 @@
 README:
 
 Hello !!!
-My name is Monika Meshram studying MA705 - Data Science course (spring 2022).
 
 This file is about the individual project using almost all concepts learned during the course. I have made interactive dashboard using python DASH.
 This interactive dashboard displays information about Beekeeping (Apiculture), which is maintenance of bee colonies, commonly in man-made hives.
